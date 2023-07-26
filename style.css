@@ -13,11 +13,10 @@ body {
   /* flex: 1; */
   height: 100%;
 
-  position: fixed;
   width: 100%;
 }
 
-.main-container h1 {
+.main-container .content {
   flex: 1;
   text-align: center;
   color: #fff;
